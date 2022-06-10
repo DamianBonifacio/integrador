@@ -25,6 +25,10 @@
     text-align: right;
     margin-right:10%;
 }
+.botonQSOrador{
+    display: inline-block;
+    position: relative;
+}
 .losOradores {
     display:flex;
     justify-content:center;
